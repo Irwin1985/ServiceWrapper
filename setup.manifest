@@ -3,3 +3,4 @@
 {root}\wd250ole.DLL;https://github.com/Irwin1985/ServiceWrapper/raw/main/wd250ole.DLL
 {root}\wd250std.DLL;https://github.com/Irwin1985/ServiceWrapper/raw/main/wd250std.DLL
 {root}\wd250xml.DLL;https://github.com/Irwin1985/ServiceWrapper/raw/main/wd250xml.DLL
+{root}\ServoInstaller.exe;https://github.com/Irwin1985/ServiceWrapper/raw/main/ServoInstaller.exe
