@@ -1,0 +1,5 @@
+{root}\SrvWrapper.exe;https://github.com/Irwin1985/ServiceWrapper/raw/main/SrvWrapper.exe
+{root}\wd250cpl.DLL;https://github.com/Irwin1985/ServiceWrapper/raw/main/wd250cpl.DLL
+{root}\wd250ole.DLL;https://github.com/Irwin1985/ServiceWrapper/raw/main/wd250ole.DLL
+{root}\wd250std.DLL;https://github.com/Irwin1985/ServiceWrapper/raw/main/wd250std.DLL
+{root}\wd250xml.DLL;https://github.com/Irwin1985/ServiceWrapper/raw/main/wd250xml.DLL
